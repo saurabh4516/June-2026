@@ -1,0 +1,14 @@
+name: Ayyan Chaugule
+age: 23
+email: pawarsaurabh16345@.com
+
+address:
+  street: 123 Main St
+  city: New York
+  country: USA
+
+hobbies:
+  - reading
+  - coding
+  - hiking
+is_active: true
