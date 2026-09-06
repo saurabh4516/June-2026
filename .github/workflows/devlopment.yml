@@ -3,7 +3,7 @@ name: Deployment with multiple environments
 on:
   push:
     branches:
-      - main
+  
 
 jobs:
   Deployment:
